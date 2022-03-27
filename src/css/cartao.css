@@ -1,0 +1,105 @@
+.cartao-pokemon{
+    display: none;
+    box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+    border-radius: 30px;
+}
+
+.cartao-pokemon .cartao-topo{
+    padding: 30px 40px 0;
+}
+
+.cartao-pokemon .nome{
+    margin-bottom: 5px;
+}
+
+.cartao-pokemon .tipo1{
+    font-size: 13px;
+    background-color: rgb(249, 252, 255);
+    opacity: 0.7;
+    border-radius: 10pc;
+    padding: 3px 10px;
+    box-shadow: rgba(0, 0, 0, 0.8) 0px 3px 8px;
+}
+
+.cartao-pokemon .tipo2{
+    font-size: 13px;
+    background-color: rgb(240, 208, 208);
+    opacity: 0.7;
+    border-radius: 10pc;
+    padding: 3px 10px;
+    box-shadow: rgba(0, 0, 0, 0.8) 0px 3px 8px;
+}
+.cartao-pokemon .detalhes{
+    color: #ffffff;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.cartao-pokemon .cartao-imagem{
+    width: 350px;
+    height: 350px;
+}
+
+.cartao-pokemon img{
+    max-height: 100%;
+    max-width: 100%;
+}
+
+.cartao-pokemon .cartao-informacoes{
+    display: flex;
+    justify-content: space-between;
+    background-color: #ffffff;
+    padding: 80px 30px 50px;
+    margin-top: -90px;
+    border-bottom-left-radius: 30px;
+    border-bottom-right-radius: 30px;
+}
+
+.cartao-pokemon .cartao-informacoes h3 {
+    font-size: 20px;
+    margin-bottom: 15px;
+    border-bottom: 1px solid #c7c5c5;
+}
+
+.cartao-pokemon .cartao-informacoes .status, .cartao-pokemon .cartao-informacoes .habilidades{
+    padding: 10px 10px;
+    width: 180px;
+    box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+    border-radius: 10px;
+}
+
+.cartao-pokemon .cartao-informacoes .status ul li, .cartao-pokemon .cartao-informacoes .habilidades ul li{
+    border-bottom: 1px solid #c7c5c5;
+    padding: 0 0 2px;
+    margin-bottom: 2px;
+    font-size: 15px;
+}
+
+.cartao-pokemon.aberto{
+    display: block;;
+}
+
+.tipo-fogo{
+    background-color: red;
+}
+
+.tipo-eletrico{
+    background-color: #e2ce15;
+}
+
+.tipo-agua{
+    background-color: aqua;
+}
+
+.tipo-dragao{
+    background-color: blue;
+}
+
+.tipo-fantasma{
+    background-color: darkslateblue;
+}
+
+.tipo-planta{
+    background-color: chartreuse;
+}
