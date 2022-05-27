@@ -1,4 +1,4 @@
-<h1 align="center">Projeto de estudo</h1>
+<h1 align="center">Projeto de estudo <img src="https://img.shields.io/badge/Made%20for-VSCode-1f425f.svg" alt="VSCode" height="25"> </h1> 
 <h2 align="center">Pagina web, responsiva, criada com: CSS, HTML e JavaScritp</h2>
 <br>
 <span>Para acessar a página em execução, </span> <a href="https://kleitonmq.github.io/Pokedex-Inaceitavel/">clique aqui.</a>
