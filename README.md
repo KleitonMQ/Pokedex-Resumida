@@ -1,10 +1,11 @@
 <h1 align="center">Projeto de estudo <img src="https://img.shields.io/badge/Made%20for-VSCode-1f425f.svg" alt="VSCode" height="25"> </h1> 
 <h2 align="center">Pagina web, responsiva, criada com: CSS, HTML e JavaScritp</h2>
 <br>
-<span>Para acessar a página, </span> <a href="https://kleitonmq.github.io/Pokedex-Inaceitavel/">clique aqui.</a>
-<br>
 
-<p>Praticando entendendo a estrutura do HTML e manipulação de padding, border e margin. Responsividade com flexbox e eventos de mouse como click e hover.</p>
+<h3>Praticando entendendo a estrutura do HTML e manipulação de padding, border e margin. Responsividade com flexbox e eventos de mouse como click e hover.<h3>
+
+<h3><span>Para acessar a página, </span> <a href="https://kleitonmq.github.io/Pokedex-Inaceitavel/">clique aqui.</a></h3>
+<br>
 <h4 align="center">Screenshots em navegador desktop.</h4>
 <div align="center">
 <img src="src/screenshots/exemplo1.png" alt="Exemplo1" height="300">
