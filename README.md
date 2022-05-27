@@ -3,6 +3,8 @@
 <br>
 <span>Para acessar a página em execução, </span> <a href="https://kleitonmq.github.io/Pokedex-Inaceitavel/">clique aqui.</a>
 <br>
+
+<p>Praticando entendendo a estrutura do HTML e manipulação de padding, border e margin. Responsividade com flexbox e eventos de mouse como click e hover.</p>
 <h4 align="center">Screenshots em navegador desktop.</h4>
 <div align="center">
 <img src="src/screenshots/exemplo1.png" alt="Exemplo1" height="300">
