@@ -4,7 +4,7 @@
 
 <h3>Praticando estrutura do HTML. Manipulação de padding, border e margin. Responsividade com flexbox e eventos de mouse como click e hover.<h3>
 
-<h3><span>Para acessar a página, </span> <a href="https://kleitonmq.github.io/Pokedex-Inaceitavel/">clique aqui.</a></h3>
+<h3><span>Para acessar à página, </span> <a href="https://kleitonmq.github.io/Pokedex-Inaceitavel/">clique aqui.</a></h3>
 <br>
 <h4 align="center">Screenshots em navegador desktop.</h4>
 <div align="center">
